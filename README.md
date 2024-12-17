@@ -8,6 +8,5 @@ You can also check out my online profiles or contact me:
 
 [LinkedIn](https://www.linkedin.com/in/cleber-zumba/)
 
-https://www.datascienceportfol.io/CleberZumbaSouza
 
 cleberz21@gmail.com
