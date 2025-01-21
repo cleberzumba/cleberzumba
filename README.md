@@ -6,7 +6,6 @@ I am currently a Senior Data Engineer. I build ETL pipelines that produce modeli
 
 You can also check out my online profiles or contact me:
 
-[LinkedIn](https://www.linkedin.com/in/cleber-zumba/)
 
 
 cleberz21@gmail.com
